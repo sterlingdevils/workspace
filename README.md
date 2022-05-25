@@ -24,6 +24,8 @@ git submodule foreach 'git config core.sshCommand "ssh -i ~/.ssh/id_rsa_home"'
 
 After you make updates to a submodule and commit them.  Please update the submodule in the workspace repo and commit it.
 
+```
 Versions:
 go 1.18.2
 git 2.31.1
+```
