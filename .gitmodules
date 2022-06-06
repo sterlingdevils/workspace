@@ -4,9 +4,6 @@
 [submodule "pipelines"]
 	path = pipelines
 	url = git@github.com:sterlingdevils/pipelines.git
-[submodule "ratelimiterpipe"]
-	path = ratelimiterpipe
-	url = git@github.com:sterlingdevils/ratelimiterpipe.git
 [submodule "sdTester"]
 	path = sdTester
 	url = git@github.com:sterlingdevils/sdTester.git
